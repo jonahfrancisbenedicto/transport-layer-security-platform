@@ -1,0 +1,21 @@
+{
+  "name": "transport-layer-security-platform",
+  "version": "1.0.0",
+  "description": "Transport Layer Security Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonahfrancisbenedicto/transport-layer-security-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jonahfrancisbenedicto/transport-layer-security-platform/issues"
+  },
+  "homepage": "https://github.com/jonahfrancisbenedicto/transport-layer-security-platform#readme"
+}
